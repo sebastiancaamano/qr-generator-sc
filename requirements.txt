@@ -1,0 +1,5 @@
+flet>=0.21.0
+qrcode[pil]>=7.4.2
+Pillow>=10.0.0
+reportlab>=4.0.0
+pyinstaller>=6.0.0

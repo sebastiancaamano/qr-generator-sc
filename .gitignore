@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+
+# Build outputs
+*.spec (for git tracking, you need the source version)
+QRGeneratorSC.exe
+QRGeneratorSC.exe.zip
+QRGeneratorSC.zip
+
+# User data (NOT for version control)
+~/.qr_generator_sc/
+Downloads/QR Generator*
