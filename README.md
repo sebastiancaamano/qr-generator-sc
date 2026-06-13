@@ -25,7 +25,7 @@ QR Generator SC is a professional-grade QR code generation application built wit
 
 ### Option A: Download Pre-built Executable (Windows)
 
-1. Go to [Releases](https://github.com/sebastianmct/qr-generator-sc/releases)
+1. Go to [Releases](https://github.com/sebastiancaamano/qr-generator-sc/releases)
 2. Download `QRGeneratorSC.exe` 
 3. Run it directly (no Python installation needed)
 
@@ -33,7 +33,7 @@ QR Generator SC is a professional-grade QR code generation application built wit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sebastianmct/qr-generator-sc
+   git clone https://github.com/sebastiancaamano/qr-generator-sc
    cd qr_generator_sc
    ```
 
